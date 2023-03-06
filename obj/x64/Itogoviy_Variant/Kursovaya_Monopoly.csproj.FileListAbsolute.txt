@@ -1,0 +1,16 @@
+C:\Users\fox2f\source\repos\Kursovaya_Monopoly\Kursovaya_Monopoly\bin\x64\Itogoviy_Variant\Kursovaya_Monopoly.exe.config
+C:\Users\fox2f\source\repos\Kursovaya_Monopoly\Kursovaya_Monopoly\bin\x64\Itogoviy_Variant\Kursovaya_Monopoly.exe
+C:\Users\fox2f\source\repos\Kursovaya_Monopoly\Kursovaya_Monopoly\obj\x64\Itogoviy_Variant\Kursovaya_Monopoly.csproj.AssemblyReference.cache
+C:\Users\fox2f\source\repos\Kursovaya_Monopoly\Kursovaya_Monopoly\obj\x64\Itogoviy_Variant\Kursovaya_Monopoly.csproj.SuggestedBindingRedirects.cache
+C:\Users\fox2f\source\repos\Kursovaya_Monopoly\Kursovaya_Monopoly\obj\x64\Itogoviy_Variant\Classes\Game.g.cs
+C:\Users\fox2f\source\repos\Kursovaya_Monopoly\Kursovaya_Monopoly\obj\x64\Itogoviy_Variant\MainWindow.g.cs
+C:\Users\fox2f\source\repos\Kursovaya_Monopoly\Kursovaya_Monopoly\obj\x64\Itogoviy_Variant\App.g.cs
+C:\Users\fox2f\source\repos\Kursovaya_Monopoly\Kursovaya_Monopoly\obj\x64\Itogoviy_Variant\Kursovaya_Monopoly_MarkupCompile.cache
+C:\Users\fox2f\source\repos\Kursovaya_Monopoly\Kursovaya_Monopoly\obj\x64\Itogoviy_Variant\Kursovaya_Monopoly_MarkupCompile.lref
+C:\Users\fox2f\source\repos\Kursovaya_Monopoly\Kursovaya_Monopoly\obj\x64\Itogoviy_Variant\Classes\Game.baml
+C:\Users\fox2f\source\repos\Kursovaya_Monopoly\Kursovaya_Monopoly\obj\x64\Itogoviy_Variant\MainWindow.baml
+C:\Users\fox2f\source\repos\Kursovaya_Monopoly\Kursovaya_Monopoly\obj\x64\Itogoviy_Variant\Kursovaya_Monopoly.g.resources
+C:\Users\fox2f\source\repos\Kursovaya_Monopoly\Kursovaya_Monopoly\obj\x64\Itogoviy_Variant\Kursovaya_Monopoly.Properties.Resources.resources
+C:\Users\fox2f\source\repos\Kursovaya_Monopoly\Kursovaya_Monopoly\obj\x64\Itogoviy_Variant\Kursovaya_Monopoly.csproj.GenerateResource.cache
+C:\Users\fox2f\source\repos\Kursovaya_Monopoly\Kursovaya_Monopoly\obj\x64\Itogoviy_Variant\Kursovaya_Monopoly.csproj.CoreCompileInputs.cache
+C:\Users\fox2f\source\repos\Kursovaya_Monopoly\Kursovaya_Monopoly\obj\x64\Itogoviy_Variant\Kursovaya_Monopoly.exe
